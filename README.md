@@ -84,7 +84,7 @@ Always keep backups of important recordings when possible.
 
 ---
 
-## 📷 (Optional)
+## 📷 Screenshots
 
 ![App Screenshot](img/RecorderRevivalPage1.png)
 ![App Screenshot](img/RecorderRevivalPage2.png)
