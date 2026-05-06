@@ -52,7 +52,7 @@ To proceed (Windows):
 
 To proceed (Mac):
 1. Right-click
-2. Click **Run**
+2. Click **Open**
 
 ---
 
