@@ -4,6 +4,8 @@ Recovers 0kb audio files from SD cards after unexpected power loss.
 
 Recorder Revival is a simple, cross-platform tool designed to help you recover recordings from SD cards used in devices like handheld recorders that were interrupted mid-write (dead battery, accidental shutdown, etc.).
 
+DISCLAIMER: WILL NOT WORK ON VERY SHORT RECORDINGS ( > ~5 minutes ). You can still try, but if it fails, seek professional data recovery help.
+
 ---
 
 ## 🎯 What it does
@@ -22,31 +24,35 @@ Recorder Revival:
 - ✔️ Designed specifically for audio recovery
 - ✔️ Works with SD cards and disk images
 - ✔️ Simple, guided interface
-- ✔️ No Python or dependencies required
+- ✔️ No coding or dependencies required
 - ✔️ Available for Windows, macOS, and Linux
 
 ---
 
-## 🚀 Getting Started (Windows)
+## 🚀 Getting Started
 
 1. [Download Latest Release](https://github.com/TylerSeppala/Recorder_Revival/releases/latest)
-2. Run the installer
+2. Follow installation steps for your OS (at release link)
 3. Launch Recorder Revival
 4. Follow the on-screen steps
 
 ---
 
-## ⚠️ Important Notes (Windows)
+## ⚠️ Important Notes
 
-Because this app is not yet code-signed, Windows may show a warning like:
+To keep it free, this app is not yet code-signed. Windows/Mac may show a warning like:
 
 > "Windows protected your PC"
 
 This is expected.
 
-To proceed:
+To proceed (Windows):
 1. Click **More info**
 2. Click **Run anyway**
+
+To proceed (Mac):
+1. Right-click
+2. Click **Run**
 
 ---
 
