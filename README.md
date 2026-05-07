@@ -4,7 +4,7 @@ Recovers 0kb audio files from SD cards after unexpected power loss.
 
 Recorder Revival is a simple, cross-platform tool designed to help you recover recordings from SD cards used in devices like handheld recorders that were interrupted mid-write (dead battery, accidental shutdown, etc.).
 
-DISCLAIMER: WILL NOT WORK ON VERY SHORT RECORDINGS ( > ~5 minutes ). You can still try, but if it fails, seek professional data recovery help.
+DISCLAIMER: WILL NOT WORK ON VERY SHORT RECORDINGS ( < ~5 minutes ). You can still try, but if it fails, seek professional data recovery help.
 
 ---
 
